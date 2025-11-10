@@ -1,0 +1,9 @@
+{
+  "mode": "channel",
+  "channelUrl": "",
+  "keyword": "",
+  "maxVideos": 10,
+  "includeTranscript": true,
+  "headless": true,
+  "language": "en"
+}
