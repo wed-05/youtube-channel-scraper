@@ -1,0 +1,8 @@
+{
+  "mode": "channel",
+  "channelUrl": "https://www.youtube.com/@netflix",
+  "maxVideos": 5,
+  "includeTranscript": true,
+  "headless": true,
+  "language": "en"
+}
