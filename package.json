@@ -1,0 +1,32 @@
+{
+  "name": "youtube-channel-scraper",
+  "version": "1.0.0",
+  "description": "Scrape detailed YouTube video and channel data using Puppeteer.",
+  "main": "src/index.js",
+  "bin": {
+    "youtube-channel-scraper": "src/main.js"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "scrape": "node src/main.js",
+    "test": "node -e \"console.log('No tests specified')\""
+  },
+  "keywords": [
+    "youtube",
+    "scraper",
+    "channel",
+    "video",
+    "puppeteer",
+    "automation",
+    "transcript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.9",
+    "puppeteer": "^21.9.0",
+    "winston": "^3.13.0",
+    "xml2js": "^0.6.2",
+    "yargs": "^17.7.2"
+  }
+}
